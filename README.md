@@ -3,7 +3,8 @@ Azure failai ir papildoma informacija.
 
 Pridėti vartotoją per Powershell
 
-Iš pirmo reikia atsijungti komanda: 
+Iš pirmo reikia atsijungti komanda:
+
      dsregcmd /leave
 
 Tada vėl prisijungti naudojant komanda:
